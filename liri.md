@@ -159,8 +159,10 @@ Date: 12/18/2018
 
 
 
-#SPOTIFY-THIS-SONG
 
+#SPOTIFY-THIS-SONG
+---
+```
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>node liri spotify-this-song livin on a prayer
 this is loaded
 livin%20on%20a%20prayer
@@ -269,8 +271,8 @@ This is the Song Name: Livin' On A Prayer - Live In Zurich/2000
 This is Preview of Song: null
 This is Album Name: One Wild Night Live 1985-2001
 ******************
-
-
+```
+```
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>node liri spotify-this-song la incondicional
 this is loaded
 la%20incondicional
@@ -389,10 +391,12 @@ This is the Song Name: Otra Como Tu/la Incondicional
 This is Preview of Song: https://p.scdn.co/mp3-preview/4c23d0a81218f69dd4627b3303898f34fc5a9bfe?cid=dfb6907bf4c74b34a8419a9d7f903d36
 This is Album Name: Cacheteees!
 ******************
-
+```
+---
 
 #SPOTIFY-THIS-SONG DEFAULT THE SIGN
-
+---
+```
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>node liri spotify-this-song
 this is loaded
 The%20Sign
@@ -517,10 +521,14 @@ This is the Song Name: One Night
 This is Preview of Song: null
 This is Album Name: The Gift Of Gab
 ******************
+```
+---
+
 
 
 #MOVIE-THIS
-
+---
+```
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>node liri movie-this the godfather
 this is loaded
 the%20godfather
@@ -532,9 +540,9 @@ Country: USA
 Language: English, Italian, Latin
 Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+```
 
-
-
+```
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>node liri movie-this the wolf of wall street
 this is loaded
 the%20wolf%20of%20wall%20street
@@ -546,10 +554,13 @@ Country: USA
 Language: English, French
 Plot: Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
 Actors: Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey
-
+```
+---
 
 #MOVIE-THIS DEFAULT
 
+---
+```
 :\CODEBOOTCAMP\LIRIHOMEOWORK>node liri movie-this
 this is loaded
 Title: Mr. Nobody
@@ -561,10 +572,13 @@ Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
+```
+---
 
 
 #do-what-it-says
-
+---
+```
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>node liri do-what-it-says
 this is loaded
  "I want it that way"
@@ -685,3 +699,5 @@ This is Album Name: Cocktails & Dreams
 ******************
 
 c:\CODEBOOTCAMP\LIRIHOMEOWORK>
+```
+---
